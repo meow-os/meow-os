@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Marco Antônio! 👋
 
 ![MarcoACx GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoACx&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoACx&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoACx&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤖 Linguagens de programação que atualmente estudo:
 
