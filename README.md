@@ -1,8 +1,8 @@
 
 ## Hello, I'm meow! 👋
 
-![MarcoACx GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmeow-os&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmeow-os&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![MarcoACx GitHub stats](https://github-readme-stats.vercel.app/api?username=meow-os&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meow-os&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤖 Programming languages i study:
 <div style="display: inline_block">
