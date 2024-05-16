@@ -1,5 +1,5 @@
 
-## Hello, I'm Marco! 👋
+## Hello, I'm meow! 👋
 
 ![MarcoACx GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoACx&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoACx&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,5 +24,5 @@
   
 </div> <br>
 
-### 💻 I'm a programming/technology enthusiast, i'm actually learning front-end/back-end development and learning English too, my goal is to become a full stack or front-end programmer by the end of 2025. 🖥️
+### 💻 I'm a programming/technology enthusiast, i'm actually learning front-end and specially game development (and learning English too), my goal is to become a sucessfull game dev or front-end programmer by the end of 2025. 🖥️
 ## 🚀If you like any of my projects or liked my profile, consider following me on github and giving suggestions for changes in my projects :)
